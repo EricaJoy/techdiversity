@@ -27,6 +27,7 @@ Cascading failure due to the following:
 - reliance on pattern matching
 - cargo-culting
 - gatekeeping
+- harassment
 
 
 ## Detection
@@ -53,7 +54,7 @@ Tracy Chou started tracking Women in engineering in 2013, with company diversity
 
 ### Where we got lucky
 
-* Numbers have stayed flat instead of dropping, indicating that for some reason, people still want to come to the tech industry
+* Numbers have stayed flat instead of dropping for women, indicating that for some reason, people still want to come to the tech industry
 * Despite lack of improvement, people still want to work on this.
 * Many companies have avoided Uber style public tire fires, despite being equally problematic.
 
